@@ -105,8 +105,8 @@ There will also be the following cuts. We will mark this to the PDF aftwards, an
 **Payment**
 Below is the pay for each engraver. This is based on the number of measures, and other responsibilities (such as management). If you would like a mangement position for a future role (and thus a higher pay, just ask, and be able to deliver).
 
-Ian = $150
-Jay = $100
+Ian = $200
+Jay = $150
 
 
 
