@@ -69,8 +69,7 @@ I will then deliver to the client.
 **Payment**
 Below is the pay for each engraver. This is based on the number of measures, and other responsibilities (such as management). If you would like a mangement position for a future role (and thus a higher pay, just ask, and be able to deliver).
 
-Reinier = $150
-Chris = $100
+Reinier = $250
 Jay = $100
 Ian = $120
 
