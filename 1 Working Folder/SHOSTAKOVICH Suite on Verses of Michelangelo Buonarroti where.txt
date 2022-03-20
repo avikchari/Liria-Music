@@ -1,0 +1,458 @@
+*** What Is Where? for score /Users/avik/Cloud/Liria-Music/1 Working Folder/SHOSTAKOVICH Suite on Verses of Michelangelo Buonarroti.sib ***
+ 
+System Text Items That Do Not Affect Playback: 
+  (There may be problems with multirests splitting in parts if these are not all attached to bar 1.)
+
+    bar        1 contains Title:                    'I.'
+    bar        1 contains Composer:                 'Shostakovich'
+    bar        1 contains Header (after first page): '\$HEADERPARTNAME\'
+    bar        1 contains Title:                    'Michaelangelo'
+    bar    1(70) contains Title:                    'II.'
+    bar   1(116) contains Title:                    'III.'
+    bar   1(196) contains Title:                    'IV.'
+    bar   1(203) contains Title:                    'V.'
+    bar   1(257) contains Title:                    'VI.'
+    bar   1(304) contains Title:                    'VII.'
+    bar 162(465) contains Title:                    'VIII.'
+    bar 238(541) contains Title:                    'IX.'
+    bar 300(603) contains Title:                    'X.'
+    bar 364(667) contains Title:                    'XI.'
+
+*** Totals for System Text Items That Do Not Affect Playback: 14
+
+Metronome Marks, System Text, and System Lines: 
+
+    bar        1 contains Title (on blank page): 'Michaelangelo'
+    bar        1 contains Composer (on blank page): 'Shostakovich'
+    bar        1 contains Tempo:         'Adagio q = 88'
+    bar        1 contains Instrument name at top left: '\$PARTNAME\'
+    bar    1(70) contains Tempo:         'Allegretto q = 126'
+    bar   1(116) contains Tempo:         'Allegretto q = 112'
+    bar   1(196) contains Tempo:         'Moderato q = 80'
+    bar   1(203) contains Tempo:         'Allegro non troppo q = 160'
+    bar  53(256) contains Tempo:         'Moderato q = 76'
+    bar  47(303) contains Tempo:         'attaca'
+    bar   1(304) contains Tempo:         'Moderato q = 76'
+    bar 162(465) contains Tempo:         'Moderato q = 92'
+    bar 238(541) contains Tempo:         'Andante q = 88'
+    bar 300(603) contains Tempo:         'Adagio q = 88'
+    bar 364(667) contains Tempo:         'Allegretto q = 160'
+
+*** Totals for Metronome Marks, System Text, and System Lines: 15
+
+Bars containing Expression Text: 
+
+* no expression text found
+
+*** Totals for Expression Text: 0
+
+Bars containing Other Staff Text: 
+
+   * no other staff text found
+
+*** Totals for Other Staff Text: 0
+
+Bars containing Staff Lines: 
+
+   * no staff lines found
+
+*** Totals for Staff Lines: 0
+
+Time Signatures (system level and per staff)
+
+   time signature: 4|4 was found at bar        1
+   time signature: 3|2 was found at bar    1(70)
+   time signature: 3|4 was found at bar    2(71)
+   time signature: 4|4 was found at bar    5(74)
+   time signature: 3|4 was found at bar    6(75)
+   time signature: 5|4 was found at bar    7(76)
+   time signature: 3|2 was found at bar    9(78)
+   time signature: 4|4 was found at bar   10(79)
+   time signature: 3|2 was found at bar   14(83)
+   time signature: 5|4 was found at bar   15(84)
+   time signature: 4|4 was found at bar   16(85)
+   time signature: 3|2 was found at bar   19(88)
+   time signature: 4|4 was found at bar   20(89)
+   time signature: 3|2 was found at bar  39(108)
+   time signature: 4|4 was found at bar  41(110)
+   time signature: 3|2 was found at bar  45(114)
+   time signature: 4|4 was found at bar   1(116)
+   time signature: 3|2 was found at bar   7(122)
+   time signature: 4|4 was found at bar  19(134)
+   time signature: 3|2 was found at bar  27(142)
+   time signature: 4|4 was found at bar  32(147)
+   time signature: 3|2 was found at bar  34(149)
+   time signature: 4|4 was found at bar  37(152)
+   time signature: 3|2 was found at bar  48(163)
+   time signature: 4|4 was found at bar  49(164)
+   time signature: 3|2 was found at bar  50(165)
+   time signature: 4|4 was found at bar  51(166)
+   time signature: 3|2 was found at bar  52(167)
+   time signature: 4|4 was found at bar  57(172)
+   time signature: 5|4 was found at bar  59(174)
+   time signature: 4|4 was found at bar  60(175)
+   time signature: 3|2 was found at bar  63(178)
+   time signature: 4|4 was found at bar  64(179)
+   time signature: 3|2 was found at bar  65(180)
+   time signature: 4|4 was found at bar  66(181)
+   time signature: 3|2 was found at bar  70(185)
+   time signature: 4|4 was found at bar  72(187)
+   time signature: 4|4 was found at bar   1(203)
+   time signature: 2|4 was found at bar   7(209)
+   time signature: 3|4 was found at bar   8(210)
+   time signature: 4|4 was found at bar   9(211)
+   time signature: 3|2 was found at bar  10(212)
+   time signature: 4|4 was found at bar  14(216)
+   time signature: 3|4 was found at bar  22(224)
+   time signature: 3|2 was found at bar  24(226)
+   time signature: 4|4 was found at bar  25(227)
+   time signature: 3|2 was found at bar  29(231)
+   time signature: 4|4 was found at bar  30(232)
+   time signature: 3|2 was found at bar  34(236)
+   time signature: 3|2 was found at bar  35(237)
+   time signature: 3|4 was found at bar  36(238)
+   time signature: 4|4 was found at bar  38(240)
+   time signature: 3|4 was found at bar  39(241)
+   time signature: 4|4 was found at bar  40(242)
+   time signature: 3|2 was found at bar  41(243)
+   time signature: 4|4 was found at bar  43(245)
+   time signature: 3|2 was found at bar  45(247)
+   time signature: 4|4 was found at bar  46(248)
+   time signature: 3|2 was found at bar  53(255)
+   time signature: 4|4 was found at bar  53(256)
+   time signature: 4|4 was found at bar   1(257)
+   time signature: 5|4 was found at bar   2(258)
+   time signature: 4|4 was found at bar   3(259)
+   time signature: 3|2 was found at bar  10(266)
+   time signature: 4|4 was found at bar  11(267)
+   time signature: 3|2 was found at bar  12(268)
+   time signature: 4|4 was found at bar  13(269)
+   time signature: 3|4 was found at bar  19(275)
+   time signature: 4|4 was found at bar  20(276)
+   time signature: 3|2 was found at bar  21(277)
+   time signature: 4|4 was found at bar  23(279)
+   time signature: 3|2 was found at bar  24(280)
+   time signature: 4|4 was found at bar  25(281)
+   time signature: 3|2 was found at bar  27(283)
+   time signature: 4|4 was found at bar  28(284)
+   time signature: 3|2 was found at bar  33(289)
+   time signature: 4|4 was found at bar  37(293)
+   time signature: 5|4 was found at bar  38(294)
+   time signature: 4|4 was found at bar  39(295)
+   time signature: 3|4 was found at bar   1(304)
+   time signature: 4|4 was found at bar  44(347)
+   time signature: 3|4 was found at bar  45(348)
+   time signature: 4|4 was found at bar  84(387)
+   time signature: 3|4 was found at bar  85(388)
+   time signature: 5|4 was found at bar  96(399)
+   time signature: 3|4 was found at bar  97(400)
+   time signature: 4|4 was found at bar 162(465)
+   time signature: 3|2 was found at bar 165(468)
+   time signature: 4|4 was found at bar 166(469)
+   time signature: 3|2 was found at bar 170(473)
+   time signature: 4|4 was found at bar 171(474)
+   time signature: 3|4 was found at bar 173(476)
+   time signature: 4|4 was found at bar 174(477)
+   time signature: 3|2 was found at bar 175(478)
+   time signature: 4|4 was found at bar 176(479)
+   time signature: 3|2 was found at bar 184(487)
+   time signature: 4|4 was found at bar 185(488)
+   time signature: 3|2 was found at bar 189(492)
+   time signature: 4|4 was found at bar 190(493)
+   time signature: 3|4 was found at bar 192(495)
+   time signature: 4|4 was found at bar 193(496)
+   time signature: 3|2 was found at bar 194(497)
+   time signature: 4|4 was found at bar 195(498)
+   time signature: 3|4 was found at bar 201(504)
+   time signature: 4|4 was found at bar 202(505)
+   time signature: 3|2 was found at bar 213(516)
+   time signature: 4|4 was found at bar 214(517)
+   time signature: 3|2 was found at bar 221(524)
+   time signature: 4|4 was found at bar 222(525)
+   time signature: 3|2 was found at bar 226(529)
+   time signature: 4|4 was found at bar 227(530)
+   time signature: 3|2 was found at bar 231(534)
+   time signature: 4|4 was found at bar 232(535)
+   time signature: 3|4 was found at bar 234(537)
+   time signature: 4|4 was found at bar 235(538)
+   time signature: 4|4 was found at bar 238(541)
+   time signature: 3|2 was found at bar 240(543)
+   time signature: 4|4 was found at bar 241(544)
+   time signature: 3|2 was found at bar 244(547)
+   time signature: 4|4 was found at bar 245(548)
+   time signature: 5|4 was found at bar 250(553)
+   time signature: 4|4 was found at bar 252(555)
+   time signature: 3|4 was found at bar 253(556)
+   time signature: 4|4 was found at bar 254(557)
+   time signature: 3|2 was found at bar 258(561)
+   time signature: 4|4 was found at bar 259(562)
+   time signature: 5|4 was found at bar 260(563)
+   time signature: 4|4 was found at bar 261(564)
+   time signature: 3|2 was found at bar 262(565)
+   time signature: 4|4 was found at bar 263(566)
+   time signature: 3|2 was found at bar 264(567)
+   time signature: 4|4 was found at bar 265(568)
+   time signature: 3|2 was found at bar 269(572)
+   time signature: 4|4 was found at bar 270(573)
+   time signature: 3|4 was found at bar 271(574)
+   time signature: 4|4 was found at bar 272(575)
+   time signature: 5|4 was found at bar 274(577)
+   time signature: 3|2 was found at bar 275(578)
+   time signature: 3|4 was found at bar 276(579)
+   time signature: 4|4 was found at bar 278(581)
+   time signature: 3|2 was found at bar 279(582)
+   time signature: 4|4 was found at bar 280(583)
+   time signature: 3|2 was found at bar 285(588)
+   time signature: 4|4 was found at bar 286(589)
+   time signature: 3|2 was found at bar 288(591)
+   time signature: 4|4 was found at bar 289(592)
+   time signature: 3|2 was found at bar 290(593)
+   time signature: 4|4 was found at bar 292(595)
+   time signature: 3|2 was found at bar 295(598)
+   time signature: 4|4 was found at bar 296(599)
+   time signature: 3|2 was found at bar 308(611)
+   time signature: 4|4 was found at bar 309(612)
+   time signature: 3|4 was found at bar 311(614)
+   time signature: 4|4 was found at bar 312(615)
+   time signature: 2|4 was found at bar 313(616)
+   time signature: 3|4 was found at bar 314(617)
+   time signature: 5|4 was found at bar 315(618)
+   time signature: 4|4 was found at bar 317(620)
+   time signature: 3|2 was found at bar 318(621)
+   time signature: 4|4 was found at bar 320(623)
+   time signature: 3|4 was found at bar 327(630)
+   time signature: 4|4 was found at bar 328(631)
+   time signature: 5|4 was found at bar 332(635)
+   time signature: 3|2 was found at bar 333(636)
+   time signature: 4|4 was found at bar 334(637)
+   time signature: 3|4 was found at bar 338(641)
+   time signature: 4|4 was found at bar 339(642)
+   time signature: 3|4 was found at bar 345(648)
+   time signature: 2|4 was found at bar 346(649)
+   time signature: 3|4 was found at bar 347(650)
+   time signature: 2|4 was found at bar 348(651)
+   time signature: 4|4 was found at bar 349(652)
+   time signature: 3|2 was found at bar 372(675)
+   time signature: 3|4 was found at bar 376(679)
+   time signature: 3|2 was found at bar 380(683)
+   time signature: 4|4 was found at bar 384(687)
+   time signature: 3|2 was found at bar 386(689)
+   time signature: 4|4 was found at bar 387(690)
+   time signature: 3|2 was found at bar 394(697)
+   time signature: 4|4 was found at bar 397(700)
+   time signature: 3|2 was found at bar 400(703)
+   time signature: 4|4 was found at bar 401(704)
+   time signature: 3|2 was found at bar 403(706)
+   time signature: 4|4 was found at bar 404(707)
+   time signature: 3|2 was found at bar 407(710)
+   time signature: 4|4 was found at bar 408(711)
+   time signature: 3|2 was found at bar 413(716)
+   time signature: 4|4 was found at bar 416(719)
+   time signature: 3|4 was found at bar 491(794)
+   time signature: 4|4 was found at bar 495(798)
+
+*** Totals for Time Signatures: 190
+
+Key Signatures (system level and per staff)
+
+    key signature: Open key/Atonal applies to start of bar     1
+    key signature: F# Major        found at bar 364(667)
+
+*** Totals for Key Signatures: 2
+
+Special Barlines
+
+    special barline: Final found at bar       69
+    special barline: Final found at bar  46(115)
+    special barline: Final found at bar  80(195)
+    special barline: Invisible found at bar   1(199)
+    special barline: Invisible found at bar   1(200)
+    special barline: Final found at bar   1(202)
+    special barline: Normal found at bar  28(230)
+    special barline: Normal found at bar  51(253)
+    special barline: Final found at bar  53(255)
+    special barline: Final found at bar  47(303)
+    special barline: Final found at bar 161(464)
+    special barline: Normal found at bar 187(490)
+    special barline: Normal found at bar 205(508)
+    special barline: Normal found at bar 206(509)
+    special barline: Normal found at bar 220(523)
+    special barline: Normal found at bar 221(524)
+    special barline: Normal found at bar 223(526)
+    special barline: Normal found at bar 224(527)
+    special barline: Normal found at bar 225(528)
+    special barline: Final found at bar 237(540)
+    special barline: Final found at bar 299(602)
+    special barline: Normal found at bar 331(634)
+    special barline: Double found at bar 363(666)
+    special barline: Normal found at bar 364(667)
+    special barline: Normal found at bar 365(668)
+    special barline: Normal found at bar 429(732)
+    special barline: Normal found at bar 449(752)
+    special barline: Final found at bar 503(806)
+
+*** Totals for Special Barlines: 28
+
+Clef Changes (may include original clef)
+
+   clef: Percussion         applies to start of bar    1 of staff 1-Snare drum
+
+*** Totals for Clefs: 1
+
+Rehearsal Marks: 
+
+    bar        8 is labelled 1 (its consecutive number is 1)
+    bar       15 is labelled 2 (its consecutive number is 2)
+    bar       20 is labelled 3 (its consecutive number is 3)
+    bar       28 is labelled 4 (its consecutive number is 4)
+    bar       38 is labelled 5 (its consecutive number is 5)
+    bar       42 is labelled 6 (its consecutive number is 6)
+    bar       49 is labelled 7 (its consecutive number is 7)
+    bar       56 is labelled 8 (its consecutive number is 8)
+    bar       65 is labelled 9 (its consecutive number is 9)
+    bar    1(70) is labelled 10 (its consecutive number is 10)
+    bar   10(79) is labelled 11 (its consecutive number is 11)
+    bar   15(84) is labelled 12 (its consecutive number is 12)
+    bar   20(89) is labelled 13 (its consecutive number is 13)
+    bar   26(95) is labelled 14 (its consecutive number is 14)
+    bar   30(99) is labelled 15 (its consecutive number is 15)
+    bar  38(107) is labelled 16 (its consecutive number is 16)
+    bar   1(116) is labelled 17 (its consecutive number is 17)
+    bar   8(123) is labelled 18 (its consecutive number is 18)
+    bar  21(136) is labelled 19 (its consecutive number is 19)
+    bar  28(143) is labelled 20 (its consecutive number is 20)
+    bar  42(157) is labelled 21 (its consecutive number is 21)
+    bar  49(164) is labelled 22 (its consecutive number is 22)
+    bar  57(172) is labelled 23 (its consecutive number is 23)
+    bar  62(177) is labelled 24 (its consecutive number is 24)
+    bar  74(189) is labelled 25 (its consecutive number is 25)
+    bar   1(196) is labelled 26 (its consecutive number is 26)
+    bar   1(197) is labelled 27 (its consecutive number is 27)
+    bar   1(198) is labelled 28 (its consecutive number is 28)
+    bar   1(199) is labelled 29 (its consecutive number is 29)
+    bar   1(201) is labelled 30 (its consecutive number is 30)
+    bar   1(202) is labelled 31 (its consecutive number is 31)
+    bar   1(203) is labelled 32 (its consecutive number is 32)
+    bar   7(209) is labelled 33 (its consecutive number is 33)
+    bar  14(216) is labelled 34 (its consecutive number is 34)
+    bar  21(223) is labelled 35 (its consecutive number is 35)
+    bar  30(232) is labelled 36 (its consecutive number is 36)
+    bar  36(238) is labelled 37 (its consecutive number is 37)
+    bar  43(245) is labelled 38 (its consecutive number is 38)
+    bar  50(252) is labelled 39 (its consecutive number is 39)
+    bar  53(256) is labelled 40 (its consecutive number is 40)
+    bar  10(266) is labelled 41 (its consecutive number is 41)
+    bar  13(269) is labelled 42 (its consecutive number is 42)
+    bar  17(273) is labelled 43 (its consecutive number is 43)
+    bar  22(278) is labelled 44 (its consecutive number is 44)
+    bar  25(281) is labelled 45 (its consecutive number is 45)
+    bar  28(284) is labelled 46 (its consecutive number is 46)
+    bar  32(288) is labelled 47 (its consecutive number is 47)
+    bar  36(292) is labelled 48 (its consecutive number is 48)
+    bar  40(296) is labelled 49 (its consecutive number is 49)
+    bar   1(304) is labelled 50 (its consecutive number is 50)
+    bar   7(310) is labelled 51 (its consecutive number is 51)
+    bar  33(336) is labelled 52 (its consecutive number is 52)
+    bar  44(347) is labelled 53 (its consecutive number is 53)
+    bar  56(359) is labelled 54 (its consecutive number is 54)
+    bar  69(372) is labelled 55 (its consecutive number is 55)
+    bar  76(379) is labelled 56 (its consecutive number is 56)
+    bar  86(389) is labelled 57 (its consecutive number is 57)
+    bar  95(398) is labelled 58 (its consecutive number is 58)
+    bar 101(404) is labelled 59 (its consecutive number is 59)
+    bar 112(415) is labelled 60 (its consecutive number is 60)
+    bar 123(426) is labelled 61 (its consecutive number is 61)
+    bar 135(438) is labelled 62 (its consecutive number is 62)
+    bar 146(449) is labelled 63 (its consecutive number is 63)
+    bar 162(465) is labelled 64 (its consecutive number is 64)
+    bar 171(474) is labelled 65 (its consecutive number is 65)
+    bar 181(484) is labelled 66 (its consecutive number is 66)
+    bar 190(493) is labelled 67 (its consecutive number is 67)
+    bar 196(499) is labelled 68 (its consecutive number is 68)
+    bar 202(505) is labelled 69 (its consecutive number is 69)
+    bar 207(510) is labelled 70 (its consecutive number is 70)
+    bar 214(517) is labelled 71 (its consecutive number is 71)
+    bar 224(527) is labelled 72 (its consecutive number is 72)
+    bar 232(535) is labelled 73 (its consecutive number is 73)
+    bar 238(541) is labelled 74 (its consecutive number is 74)
+    bar 247(550) is labelled 75 (its consecutive number is 75)
+    bar 252(555) is labelled 76 (its consecutive number is 76)
+    bar 259(562) is labelled 77 (its consecutive number is 77)
+    bar 265(568) is labelled 78 (its consecutive number is 78)
+    bar 270(573) is labelled 79 (its consecutive number is 79)
+    bar 274(577) is labelled 80 (its consecutive number is 80)
+    bar 280(583) is labelled 81 (its consecutive number is 81)
+    bar 287(590) is labelled 82 (its consecutive number is 82)
+    bar 292(595) is labelled 83 (its consecutive number is 83)
+    bar 300(603) is labelled 84 (its consecutive number is 84)
+    bar 309(612) is labelled 85 (its consecutive number is 85)
+    bar 318(621) is labelled 86 (its consecutive number is 86)
+    bar 323(626) is labelled 87 (its consecutive number is 87)
+    bar 328(631) is labelled 88 (its consecutive number is 88)
+    bar 332(635) is labelled 89 (its consecutive number is 89)
+    bar 337(640) is labelled 90 (its consecutive number is 90)
+    bar 343(646) is labelled 91 (its consecutive number is 91)
+    bar 353(656) is labelled 92 (its consecutive number is 92)
+    bar 358(661) is labelled 93 (its consecutive number is 93)
+    bar 364(667) is labelled 94 (its consecutive number is 94)
+    bar 381(684) is labelled 95 (its consecutive number is 95)
+    bar 393(696) is labelled 96 (its consecutive number is 96)
+    bar 401(704) is labelled 97 (its consecutive number is 97)
+    bar 408(711) is labelled 98 (its consecutive number is 98)
+    bar 416(719) is labelled 99 (its consecutive number is 99)
+    bar 428(731) is labelled 100 (its consecutive number is 100)
+    bar 439(742) is labelled 101 (its consecutive number is 101)
+    bar 450(753) is labelled 102 (its consecutive number is 102)
+    bar 459(762) is labelled 103 (its consecutive number is 103)
+    bar 469(772) is labelled 104 (its consecutive number is 104)
+    bar 481(784) is labelled 105 (its consecutive number is 105)
+    bar 491(794) is labelled 106 (its consecutive number is 106)
+
+*** Totals for Rehearsal Marks: 106
+
+Bar Number Changes: 
+ (the bar number shown is the displayed bar number, followed, in parentheses,
+   by the bar number that would display if there had been no bar number changes.)
+
+    bar number change at bar    1(70)
+    bar number change at bar   1(116)
+    bar number change at bar   1(196)
+    bar number change at bar   1(197)
+    bar number change at bar   1(198)
+    bar number change at bar   1(199)
+    bar number change at bar   1(200)
+    bar number change at bar   1(201)
+    bar number change at bar   1(202)
+    bar number change at bar   1(203)
+    bar number change at bar  53(256)
+    bar number change at bar   1(257)
+    bar number change at bar   1(304)
+
+*** Totals for Bar Number Changes: 13
+
+Instrument Changes: 
+
+   * no instrument changes found
+
+*** Totals for Instrument Changes: 0
+
+Bars containing Graphics: 
+
+   * no graphics found
+
+*** Totals for Graphics: 0
+
+Bars containing Symbols: 
+
+   * no symbols found
+
+*** Totals for Symbols: 0 symbols in 0 bars
+
+Bars containing Grace Notes: 
+
+   * no grace notes found
+
+*** Totals for Grace Notes: 0 grace note(s) in 0 bar(s)
+
+Bars containing Tuplets: 
+
