@@ -1,0 +1,30 @@
+m. 98-99 - edited slurs and articulation
+m. 130-133 - removed extra crotchets
+m. 154 - edited slur and articulation
+m. 235 - hid 2nd voice rest
+m. 241 - added hairpins
+m. 261 - added 'non cresc' instruction
+m. 495 - 3 line tremolo for flz. changed to z to match full score
+m. 583-584 - removed repeated accidentals (to match full score)
+m. 627-636 - changed quaver beamings
+m. 888 - 3 line tremolo for flz. changed to z to match full score
+m. 894 - 3 line tremolo for flz. changed to z to match full score
+m. 896 - added (3+3)
+m. 898 - added (2+2+2)
+m. 899 - added (3+3, 2+2+2)
+m. 986 - removed natural sign
+m. 1005 - added (3+3, 2+2+2)
+m. 1024-1026 - added rit line
+m. 1027 - tempo added
+m. 1026-1038 - time sig set as 6/8
+
+Q&A
+Q30, m. 32 - A to C#
+Q38, m. 40 & 44, 3/2 changed to 3/4 so the subsequent rehersal numbers will be correct
+same for m. 50, 53
+Q91 - added (3+3, 2+2+2)
+Q144 - added (3+3, 2+2+2)
+
+i initially assumed the conductor groupings ie. 3+3, were for conductor Q91 - added (3+3, 2+2+2) only but they were present in the part so i added them for consistency.
+some issues at Q103, the 'battle music' segment here has the same issues edited at m. 98-99 and m. 154
+are these to be similarly changed?
